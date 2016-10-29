@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-apps=()
+apps=(vlc gimp)
 
 # loop through utils
 for i in ${utils[@]}
