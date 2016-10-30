@@ -1,5 +1,5 @@
 #!/bin/bash
-utils=(unzip p7zip-full git curl htop)
+utils=(unzip p7zip-full git curl htop wget ccrypt)
 
 
 
