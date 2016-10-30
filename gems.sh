@@ -1,1 +1,1 @@
-gem install sassc dotenv
+gem install sassc dotenv rhc
