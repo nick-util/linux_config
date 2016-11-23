@@ -16,4 +16,6 @@ do
 done
 
 
+  git config --global user.email "NickKiermaier@gmail.com"
+  git config --global user.name "NickKiermaier"
 
