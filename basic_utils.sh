@@ -1,7 +1,7 @@
 #!/bin/bash
 utils=(unzip p7zip-full git curl htop wget ccrypt build-essential libxml2 libxml2-dev 
 libcurl4-openssl-dev libmcrypt-dev libreadline-dev libmysqlclient-dev
- libffi-dev libpq-dev lm-sensors hddtemp psensor unity-tweak-tool python-pip nodejs)
+ libffi-dev libpq-dev lm-sensors hddtemp psensor unity-tweak-tool python-pip nodejs flashplugin-installer)
 
 
 
